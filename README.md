@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+# :wave: DSA: The Basics of GitHub 
+(DSA stands for Data Structures & Algorithms)
 
 ## 🤓 Course overview and learning outcomes 
 
