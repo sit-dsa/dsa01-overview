@@ -37,8 +37,9 @@ For this week, you should aim to achieve the following learning objectives:
 GitHub is a tool that allows us to collaborate on code. It is a tool that is used by many software engineers and is a great tool to learn. It is also a great tool to use for our class because it allows us to easily share code and collaborate on code.
 
 To complete the tasks you will need to know your way around GitHub. You can learn about the basics of GitHub [here](github-fundamentals.md).
+- note that collaborative workflows with GitHub are not essential for this module but will be useful for your other projects and future career
 
-## Tasks to complete in this assignment
+Once you're comfortable to get your hands dirty on completing the tasks, you continue below.
 
 ## Clone repository
 
@@ -61,9 +62,10 @@ Show the instructor that you have successfully created a new C++ file in this re
 ## Compilation
 
 Show the instructor that you have successfully compiled the C++ file in this repository.
+- ignore the output files in the repository and show the instructor how you have don this 
 
 ## Submitting the assignment
 
 There is no submit button for assignments. Instead, submissions are actually just a commit to the repository. To submit this assignment, you need to add, commit, and push your changes to the repository. You can do this in the GitHub codespace or on your own machine.
 
-We will provide you with feedback through GitHub. You can view this feedback by going to the "Pull requests" tab and clicking on the pull request that was created already.
+Let your instructor know once you're done with the final "Hello World" task here. We will then provide you with feedback through the feedback Pull Request (PR). You can view this feedback by going to the "Pull requests" tab and clicking on the PR that was created already.
