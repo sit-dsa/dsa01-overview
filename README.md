@@ -61,10 +61,12 @@ Show the instructor that you have successfully created a new C++ file in this re
 - you need to git add, commit, and push the file to the repository
 - also show that you can see the file and commit history on GitHub
 
-## Compilation
+## Compilation and Testing
 
 Show the instructor that you have successfully compiled the C++ file in this repository.
-- ignore the output files in the repository
+
+Also show the instructor that you have successfully run the test file in your IDE.
+- you will need to ignore the output files in the repository, i.e., figure out a way to not commit them to the repository
 
 ## Submitting the assignment
 
