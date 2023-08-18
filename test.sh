@@ -8,7 +8,7 @@ output=$(./a.out)
 expected_output="Hello World!"
 
 # Check if the program exited with 0
-if [$? -eq 0]; then
+if [ $? -eq 0 ]; then
     echo "PASSED: program exited with 0"
 else
     echo "FAILED: program exited with non-zero exit code"
