@@ -64,10 +64,13 @@ Show the instructor that you have successfully created a new C++ file in this re
 ## Compilation
 
 Show the instructor that you have successfully compiled the C++ file in this repository.
-- ignore the output files in the repository and show the instructor how you have don this 
+- ignore the output files in the repository
 
 ## Submitting the assignment
 
 There is no submit button for assignments. Instead, submissions are actually just a commit to the repository. To submit this assignment, you need to add, commit, and push your changes to the repository. You can do this in the GitHub codespace or on your own machine.
+- once your changes are pushed to the repository, the test file will automatically run
+- you can check the status of the test file by going to the "Actions" tab and clicking on the latest workflow run
+- you can determine whether the test passed or failed by looking at the green tick or red cross on the commit hash
 
 Let your instructor know once you're done with the final "Hello World" task here. We will then provide you with feedback through the feedback Pull Request (PR). You can view this feedback by going to the "Pull requests" tab and clicking on the PR that was created already.
