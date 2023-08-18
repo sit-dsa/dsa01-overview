@@ -4,13 +4,13 @@
 echo "Running tests..."
 echo
 
-output=$(./a.out < test.txt)
+output=$(./a.out)
 expected_output="Hello World!"
 
 if [ "$output" == "$expected_output" ]; then
-    echo "Test case passed!"
+    echo "PASS: output matched expections"
 else
-    echo "Test case failed!"
+    echo "FAILED: Expected '$expected_output' but got '$output'"
 fi
 
 echo
