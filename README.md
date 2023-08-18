@@ -54,6 +54,8 @@ Create a new markdown file in this repository. Name it `about-me.md`. In this fi
 
 ## Writing code
 
+Your task is to write a code that prints the famed "Hello World!" message in the terminal. You must write it in C++ as we will be using C++ for the rest of the module. You should have learnt C++ in a past module (maybe several of them), otherwise you can always start [here](https://www.learncpp.com/).
+
 Show the instructor that you have successfully created a new C++ file in this repository.
 - name it in a way the test file can find it
 - you need to git add, commit, and push the file to the repository
