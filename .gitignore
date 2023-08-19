@@ -1,0 +1,8 @@
+# General macOS & Windows OS files
+.DS_Store
+.Trashes
+$RECYCLE.BIN/
+[Dd]esktop.ini
+Thumbs.db
+Thumbs.db:encryptable
+*.lnk
