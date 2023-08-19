@@ -8,6 +8,5 @@
 int main()
 {
     // TODO: print "Hello World!" to the screen.
-    
-    return 0;
+    // TODO: return the number that indicates the program exited successfully
 }
