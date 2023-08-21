@@ -39,7 +39,7 @@ GitHub is a tool that allows us to collaborate on code. It is a tool that is use
 To complete the tasks you will need to know your way around GitHub. You can learn about the basics of GitHub [here](github-fundamentals.md).
 - note that collaborative workflows with GitHub are not essential for this module but will be useful for your other projects and future career
 
-Once you're comfortable to get your hands dirty on completing the tasks, you continue below.
+Once you're comfortable to get your hands dirty on **completing the tasks**, you can continue below. (feel free to use ChatGPT and the likes of course)
 
 ## Clone repository
 
