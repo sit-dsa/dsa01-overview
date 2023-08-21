@@ -1,5 +1,6 @@
 # General macOS & Windows OS files
 .DS_Store
+.undodir/
 .Trashes
 $RECYCLE.BIN/
 [Dd]esktop.ini
