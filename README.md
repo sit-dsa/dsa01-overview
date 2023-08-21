@@ -2,7 +2,7 @@
 
 Welcome :wave: to the repository for the first class of DSA (Data Structures & Algorithms).
 
-There will be a repository like this for every week of the class. We will aim to consolidate here all the notes and assignments for each week of the class. By having everything consolidated in the form of a repository, you can choose to be updated on any changes we make as the class ensues.
+There will be a repository like this for every week of the class. We will aim to consolidate here all the notes and assignments for each week of the class.
 
 You can also retain the notes in your own repository after the end of this class. This will allow you to refer back to the notes which will be maintained as long as the class is still around 🤓 .
 
@@ -43,7 +43,9 @@ Once you're comfortable to get your hands dirty on completing the tasks, you con
 
 ## Clone repository
 
-Show the instructor that you have successfully cloned this repository to your computer.
+Show the instructor that you have successfully cloned this repository to your computer locally.
+
+If you choose to use the GitHub codespace cloud IDE, theoretically you don't need to clone the repository, but for this exercise, you should still clone the repository to your computer locally. It is important to be able to know how to work on your project independent of cloud resources.
 
 ## Writing markdown
 
@@ -65,14 +67,17 @@ Show the instructor that you have successfully created a new C++ file in this re
 
 Show the instructor that you have successfully compiled the C++ file in this repository.
 
-Also show the instructor that you have successfully run the test file in your IDE.
+Also show the instructor that you have successfully run the test file in your local programming environment.
 - you will need to ignore the output files in the repository, i.e., figure out a way to not commit them to the repository
+
+As much as possible, _perform all development steps on the command line_. This will help form important associations with the underlying tools that are used in the background behind the GUI.
 
 ## Submitting the assignment
 
-There is no submit button for assignments. Instead, submissions are actually just a commit to the repository. To submit this assignment, you need to add, commit, and push your changes to the repository. You can do this in the GitHub codespace or on your own machine.
+There is **no submit button** for assignments. Instead, submissions are actually **just a commit to the repository**. To submit this assignment, you need to add, commit, and push your changes to the repository. You can do this in the GitHub codespace or on your own machine.
 - once your changes are pushed to the repository, the test file will automatically run
 - you can check the status of the test file by going to the "Actions" tab and clicking on the latest workflow run
 - you can determine whether the test passed or failed by looking at the green tick or red cross on the commit hash
+- we will only consider the latest commit on the `main` branch as your submission after the deadline
 
 Let your instructor know once you're done with the final "Hello World" task here. We will then provide you with feedback through the feedback Pull Request (PR). You can view this feedback by going to the "Pull requests" tab and clicking on the PR that was created already.
