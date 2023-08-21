@@ -1,8 +1,8 @@
-# WEEK01: DSA Overview & Mem Mgmt
+# WEEK01: DSA Overview & Memory Management
 
 Welcome :wave: to the repository for the first class of DSA (Data Structures & Algorithms).
 
-There will be a repository like this for every week of the class. We will aim to consolidate all  the notes and assignments for each week of the class. By having everything consolidated in the form of a repository, you can always be updated on any changes we make as the class ensues. As with everything we do in life, things change (a lot) and this allows us to propagate changes quickly and easily.
+There will be a repository like this for every week of the class. We will aim to consolidate here all the notes and assignments for each week of the class. By having everything consolidated in the form of a repository, you can choose to be updated on any changes we make as the class ensues.
 
 You can also retain the notes in your own repository after the end of this class. This will allow you to refer back to the notes which will be maintained as long as the class is still around 🤓 .
 
