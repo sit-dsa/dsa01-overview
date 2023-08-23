@@ -1,5 +1,5 @@
 compile:
-	g++ -std=c++11 -Wall -Wextra -pedantic -O3 -o a.out hello.cpp
+	g++ -std=c++17 -Wall -o a.out hello.cpp
 
 test: compile
 	bash test.sh
